@@ -1,7 +1,33 @@
-Link do FIGMA usado como base do desenvolvimento: https://www.figma.com/design/rLmcCkGh6R5Xmha8oGBaWj/Local-Tur%C3%ADstico-(Community)-(Copy)?node-id=3-376&t=d8Ih3jOzFg3m37Tt-1- desenvolvido pela Rocketseat
+## <center> Local turístico </center>
 
-#Projeto desenvolvido como desafio 01 - HTML e CSS básico
+<center><b>TÓPICOS</b></center>
+<br>
+<center><sub>
+<a href="#-tecnologias">TECNOLOGIAS</a> | 
+<a href="#️-ferramentas">FERRAMENTAS</a> |
+<a href="#️-estrutura">ESTRUTURA</a> |
+<a href="#-apresentação">APRESENTAÇÃO</a> |</sub></center>
 
-![image](https://github.com/user-attachments/assets/c3ab84b5-cea4-4b16-a430-17761518d814)
-![image](https://github.com/user-attachments/assets/3abe7c4e-500c-440f-8927-e4a15b6698e5)
-![image](https://github.com/user-attachments/assets/8e6d3ebf-1ea2-4433-a35a-f836c3f618d5)
+---
+
+Projeto desenvolvido para explorar habilidades absorvidas durante o curso <b>Fullstack - Rocketseat</b> - iniciando HTML e CSS
+
+## 🤖 TECNOLOGIAS
+
+Neste momento do projeto foram utilizadas apenas as tecnologias de HTML e CSS puros sem uso de frameworks ou ferramentas auxiliares para execução.
+
+## ⚒️ FERRAMENTAS
+
+Para o inicio do escopo, apresentando a ideia inicial foi utilizando o <a href="https://www.figma.com/design/rLmcCkGh6R5Xmha8oGBaWj/Local-Tur%C3%ADstico-(Community)-(Copy)?node-id=3-376&t=d8Ih3jOzFg3m37Tt-1-"> <b>Figma</b> </a> para realizar o desenho e layout do projeto, tirando do papel e adaptando ao digital. <br>
+Com essa ferramenta foi possível apresentar o modelo do layout no projeto.
+<br>
+Iniciando na parte dos códigos, foi utilizado o <b><a href="https://vscode.dev/">VScode</a></b> devido a sua variedade de opções e aplicativos que auxiliam na proatividade do projeto.
+
+## 🏗️ ESTRUTURA
+
+A página possui uma estrutura básica somente para aplicar fundamentos iniciais. <br>
+
+## 📺 APRESENTAÇÃO
+
+![alt text](image.png)
+<br>
